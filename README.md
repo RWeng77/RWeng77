@@ -3,7 +3,7 @@
 
 
 A CSIE student, studying cyber security, a web doge don't know how to write a reverse shell.
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/115467018?s=400&u=6d8b01265cf8aedc02c1b78802e6dd65acfa59d0&v=4"  />
+
 
 ### Experience
 -  [HackerSir 10th Academic staff](https://hackersir.org/2022/#/about/cadre/10/1)  2023 - 2024
